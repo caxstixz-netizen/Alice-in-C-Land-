@@ -39,24 +39,6 @@ Language: C++
 Programming Paradigm: Object-Oriented Programming (OOP)  
 Libraries: iostream, string, cctype
 
-## How to Run
-
-1. Clone the repository
-
-git clone https://github.com/yourusername/Alice-in-C-Land.git
-
-2. Navigate to the project folder
-
-cd Alice-in-C-Land
-
-3. Compile the program
-
-g++ main.cpp -o alice
-
-4. Run the program
-
-./alice
-
 ## Authors
 
 Srishti  
